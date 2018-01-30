@@ -1,9 +1,9 @@
 {
 "TOTAL_MEMORY": 268435456,
-"dataUrl": "WebGL.data.unityweb",
-"asmCodeUrl": "WebGL.asm.code.unityweb",
-"asmMemoryUrl": "WebGL.asm.memory.unityweb",
-"asmFrameworkUrl": "WebGL.asm.framework.unityweb",
+"dataUrl": "SpaceGame.data.unityweb",
+"asmCodeUrl": "SpaceGame.asm.code.unityweb",
+"asmMemoryUrl": "SpaceGame.asm.memory.unityweb",
+"asmFrameworkUrl": "SpaceGame.asm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
