@@ -46,12 +46,24 @@ h2, h3 {
     text-align:center;
 }
 
+a{
+    text-align: center;
+}
+
 p {
     color:darkgray;
 }
 
 ul{
     color:lightgray;
+}
+
+li{
+    text-align: center;
+}
+
+p{
+    text-align: center;
 }
 
 img{
@@ -69,6 +81,6 @@ img{
 }
 
 #projectsSection{
-    padding-left: 2%;
+    padding-left: 5%;
     padding-right: 5%;
 }
